@@ -23,7 +23,7 @@ export function Education() {
                                 <div className="absolute w-4 h-4 bg-zinc-900 border-2 border-indigo-500 rounded-none -left-[10px] top-2" />
                                 <h3 className="text-xl font-bold text-white">{edu.school}</h3>
                                 <p className="text-indigo-400 font-bold mt-1 font-mono">{edu.degree}</p>
-                                <div className="text-sm text-zinc-500 mt-2 mb-4 font-bold">{edu.date} • GPA: {edu.gpa}</div>
+                                <div className="text-sm text-zinc-500 mt-2 mb-4 font-bold">{edu.date} • SGPA: {edu.gpa}</div>
                                 <p className="text-zinc-400 text-sm leading-relaxed mb-4">{edu.description}</p>
                                 {/* @ts-ignore */}
                                 {edu.certificate && (

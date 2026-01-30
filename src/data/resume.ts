@@ -19,7 +19,7 @@ export const resumeData = {
             school: "Babu Banarasi Das University, Lucknow",
             degree: "Bachelor of Technology (CSE)",
             date: "Jul 2022 – May 2026",
-            gpa: "8.35 (till 7th sem)",
+            gpa: "8.88 (till 7th sem)",
             description: "Focus on Computer Science & Engineering. Consistent academic performer."
         },
         {

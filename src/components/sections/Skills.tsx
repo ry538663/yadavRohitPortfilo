@@ -1,7 +1,7 @@
 import { useRef } from 'react';
 import { resumeData } from '../../data/resume';
 import { motion, useInView } from 'framer-motion';
-import { Code, Database, Server, Smartphone, Layout } from 'lucide-react';
+import { Code, Database, Server, Layout } from 'lucide-react';
 
 export function Skills() {
     return (
